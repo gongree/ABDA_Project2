@@ -1,4 +1,4 @@
-# [Advanced Big Data Analysis] Project2 : MDD Diagnosis with Functional Brain Network
+# [Advanced Big Data Analysis Project2] MDD Diagnosis with Functional Brain Network
 
 ## 🔍 Project Summary
 This project explores the use of Graph Structure Learning (GSL) for classifying Major Depressive Disorder (MDD) using resting-state fMRI data.  
